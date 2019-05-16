@@ -1,128 +1,185 @@
 {
   "basics": {
-    "name": "Dugan Nash",
-    "label": "Very extravagant man",
+    "name": "T.Georges Sylvestre",
+    "label": "Digital Sherpa",
     "picture": "",
-    "email": "dugan.hash@mailinator.com",
-    "phone": "(555) 555-5555",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "email": "tgeorges.sylvestre.com",
+    "phone": "(+33)6 73 24 83 66",
+    "website": "https://tgsylvestre.github.io/",
+    "summary": "Depuis plus de 10 ans Georges est passioné par les technologies digitales le web et sa culture, il s'épanouis dans les situations où il peut mettre en oeuvre ses compétences techniques et personelles.",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "8 Cité Wauxhall",
+      "postalCode": "75010",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile de France"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "username": "@TedGeorges",
+        "url": "https://twitter.com/TedGeorges"
       },
       {
-        "network": "SoundCloud",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "LinkedIn",
+        "username": "T.Georges Sylvestre",
+        "url": "www.linkedin.com/in/tgsylvestre"
       }
     ]
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "company": "D-Edge",
+      "position": "Implementation Manager",
+      "website": "https://www.d-edge.com/fr/",
+      "startDate": "2016-02-01",
+      "endDate": "2018-07-01",
+      "summary": " Mène plusieurs projets en simultanée avec peu de supervision, agis en tant que chef de projet pour conduire les implémentations jusqu'à leur terme mais aussi responsable de la documentation complète du processus de mise en œuvre ",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Habilitation PCI-DSS ",
+        "Gestion de comptes multiple",
+        "Support dédié et formation client",
+        "Gestion de crise"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "company": "Laboratoires PRED",
+      "position": "Assistant commerciale",
+      "website": "https://www.pred.fr/",
+      "startDate": "2014-05-01",
+      "endDate": "2015-11-01",
+      "summary": "Véritable intermédiaire entre les clients et l'entreprise, en jouant un rôle essentiel dans le traitement des commandes, l'élaboration de devis, le facturation",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "Traitement des réclamations et Service après vente",
+        "Relations fournisseurs et Suivi qualité",
+        "Controle et validation de l'activité commerciale"
+  
       ]
-    }
-  ],
-  "education": [
+    },
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+      "company": "It Sauquet / Dynseo",
+      "position": "Business developer",
+      "website": "https://www.dynseo.com/",
+      "startDate": "2013-04-01",
+      "endDate": "2015-04-01",
+      "summary": "En lien avec les équipes commerciales, marketing, financière, juridique, en coordonnant les idées et équipes afin de créer de nouvelles activités au sein d'une entreprise",
+      "highlights": [
+        "Creation et diffusion de support de vente",
+        "Veille et Réponse aux appel d'offres",
+        "Prospection et creation de campagnes de mailing"
+        
       ]
-    }
-  ],
-  "awards": [
+    },
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "company": "Wrobleski Atelier",
+      "position": "Office Manager",
+      "website": " ",
+      "startDate": "2011-04-01",
+      "endDate": "2013-03-01",
+      "summary": "interlocuteur privilégié et responsable du bon fonctionnement d’un bureau, de sa coordination et de sa supervision en assurant le traitement du courrier entrant et sortant, l’envoi de mailings, l'acceuil téléphonique, gère l’agenda, la gestion administrative  et la gestion des commandes ",
+      "highlights": [
+        "Gestion du parc Informatique",
+        "Comptabilité et Gestion",
+        "Mise en place d'un ERP"
+        
+      ]
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
+      "name": "Gestion de projets Digitaux",
       "level": "Master",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "Définir et partager une vision stratégique en créant une feuille de route produit",
+        "Etablir les véritables besoins clients et priorisée des fonctionnalités du produit à implémenter",
+        "Accompagner les équipes de développeurs pendant la production en respectant les principes de gestion de projet agile",
+        "Coordonner la release et les efforts d’optimisation pour les fonctionnalités à haute valeur ajoutée"
+    
       ]
     },
     {
-      "name": "Bruschotti",
+      "name": "Entrepreunariat",
       "level": "Satisfactory",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Transformer une idée en un business model",
+        "Analyser un besoin client",
+        "Créer une offre et de la valeur pour des clients",
+        "Se faire connaître et vendre son produit",
+        "Gérer les finances et l’administrationRecruter et fédérer une équipe"
+      ]
+    },
+    {
+      "name": "Comunity management",
+      "level": "Satisfactory",
+      "keywords": [
+        "Elaborer une stratégie de communication sur les réseaux sociaux",
+        "Définir une ligne éditoriale pour créer des contenus de marque",
+        "Organiser des évènements pour fédérer des communautés",
+        "Animer des communautés avec un discours de marque",
+        "Lancer des campagnes de notoriété ou d'acquisition",
+        "Auditer la E-réputation de n'importe quelle marque"
+        
+    
       ]
     }
   ],
   "languages": [
     {
-      "language": "Nonsense",
-      "fluency": "Native speaker"
+      "language": "Anglais",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "Français",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Notions"
     }
   ],
   "interests": [
     {
-      "name": "The Information Superhighway",
+      "name": "Technologie de l'information et des communication",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Intelligence Artificielle",
+        "Big Data",
+        "Objets Connecté",
+        "Smart Contract et Block Chain"
+      ]
+    },
+    {
+      "name": "Developpement Web",
+      "keywords": [
+        "HTML5 et CSS3",
+        "Progressive Web App",
+        "Web Assembly",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Sociologie",
+      "keywords": [
+        "Intelligence et mécanique sociale",
+        "Management",
+        "Etudes et recherches sur l'apprentissage"
+      ]
+    },
+    {
+      "name": "Croissance Digitale",
+      "keywords": [
+        "Stratégie Digitale",
+        "Creation et diffusion de contenu",
+        "Marketing 4.0"
       ]
     }
   ],
   "references": [
     {
       "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "reference": "It is my pleasure to recommend Georges, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
+
+  
+
