@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "T.Georges Sylvestre",
+    "label": "Digital Sherpa",
+    "picture": "",
+    "email": "tgeorges.sylvestre.com",
+    "phone": "(+33)6 73 24 83 66",
+    "website": "https://tgsylvestre.github.io/",
+    "summary": "Depuis plus de 10 ans Georges est passioné par les technologies digitales le web et sa culture, il s'épanouis dans les situations où il peut mettre en oeuvre ses compétences techniques et personelles.",
+    "location": {
+      "address": "8 Cité Wauxhall",
+      "postalCode": "75010",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile de France"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@TedGeorges",
+        "url": "https://twitter.com/TedGeorges"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "T.Georges Sylvestre",
+        "url": "www.linkedin.com/in/tgsylvestre"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "D-Edge",
+      "position": "Implementation Manager",
+      "website": "https://www.d-edge.com/fr/",
+      "startDate": "2016-02-01",
+      "endDate": "2018-07-01",
+      "summary": " Mène plusieurs projets en simultanée avec peu de supervision, agis en tant que chef de projet pour conduire les implémentations jusqu'à leur terme mais aussi responsable de la documentation complète du processus de mise en œuvre ",
+      "highlights": [
+        "Habilitation PCI-DSS ",
+        "Gestion de comptes multiple",
+        "Support dédié et formation client",
+        "Gestion de crise"
+      ]
+    },
+    {
+      "company": "Laboratoires PRED",
+      "position": "Assistant commerciale",
+      "website": "https://www.pred.fr/",
+      "startDate": "2014-05-01",
+      "endDate": "2015-11-01",
+      "summary": "Véritable intermédiaire entre les clients et l'entreprise, en jouant un rôle essentiel dans le traitement des commandes, l'élaboration de devis, le facturation",
+      "highlights": [
+        "Traitement des réclamations et Service après vente",
+        "Relations fournisseurs et Suivi qualité",
+        "Controle et validation de l'activité commerciale"
+  
+      ]
+    },
+    {
+      "company": "It Sauquet / Dynseo",
+      "position": "Business developer",
+      "website": "https://www.dynseo.com/",
+      "startDate": "2013-04-01",
+      "endDate": "2015-04-01",
+      "summary": "En lien avec les équipes commerciales, marketing, financière, juridique, en coordonnant les idées et équipes afin de créer de nouvelles activités au sein d'une entreprise",
+      "highlights": [
+        "Creation et diffusion de support de vente",
+        "Veille et Réponse aux appel d'offres",
+        "Prospection et creation de campagnes de mailing"
+        
+      ]
+    },
+    {
+      "company": "Wrobleski Atelier",
+      "position": "Office Manager",
+      "website": " ",
+      "startDate": "2011-04-01",
+      "endDate": "2013-03-01",
+      "summary": "interlocuteur privilégié et responsable du bon fonctionnement d’un bureau, de sa coordination et de sa supervision en assurant le traitement du courrier entrant et sortant, l’envoi de mailings, l'acceuil téléphonique, gère l’agenda, la gestion administrative  et la gestion des commandes ",
+      "highlights": [
+        "Gestion du parc Informatique",
+        "Comptabilité et Gestion",
+        "Mise en place d'un ERP"
+        
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Gestion de projets Digitaux",
+      "level": "Master",
+      "keywords": [
+        "Définir et partager une vision stratégique en créant une feuille de route produit",
+        "Etablir les véritables besoins clients et priorisée des fonctionnalités du produit à implémenter",
+        "Accompagner les équipes de développeurs pendant la production en respectant les principes de gestion de projet agile",
+        "Coordonner la release et les efforts d’optimisation pour les fonctionnalités à haute valeur ajoutée"
+    
+      ]
+    },
+    {
+      "name": "Entrepreunariat",
+      "level": "Satisfactory",
+      "keywords": [
+        "Transformer une idée en un business model",
+        "Analyser un besoin client",
+        "Créer une offre et de la valeur pour des clients",
+        "Se faire connaître et vendre son produit",
+        "Gérer les finances et l’administrationRecruter et fédérer une équipe"
+      ]
+    },
+    {
+      "name": "Comunity management",
+      "level": "Satisfactory",
+      "keywords": [
+        "Elaborer une stratégie de communication sur les réseaux sociaux",
+        "Définir une ligne éditoriale pour créer des contenus de marque",
+        "Organiser des évènements pour fédérer des communautés",
+        "Animer des communautés avec un discours de marque",
+        "Lancer des campagnes de notoriété ou d'acquisition",
+        "Auditer la E-réputation de n'importe quelle marque"
+        
+    
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "Français",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Notions"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technologie de l'information et des communication",
+      "keywords": [
+        "Intelligence Artificielle",
+        "Big Data",
+        "Objets Connecté",
+        "Smart Contract et Block Chain"
+      ]
+    },
+    {
+      "name": "Developpement Web",
+      "keywords": [
+        "HTML5 et CSS3",
+        "Progressive Web App",
+        "Web Assembly",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Sociologie",
+      "keywords": [
+        "Intelligence et mécanique sociale",
+        "Management",
+        "Etudes et recherches sur l'apprentissage"
+      ]
+    },
+    {
+      "name": "Croissance Digitale",
+      "keywords": [
+        "Stratégie Digitale",
+        "Creation et diffusion de contenu",
+        "Marketing 4.0"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": " Nannette Nananacci",
+      "reference": "It is my pleasure to recommend Georges, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
+
+  
+
