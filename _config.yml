@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: "fr-FR"
 title: "Digital Sherpa"
-email: "dugan.nash@mailinator.com"
+email: "tgeorges.sylvestre@gmail.com"
 description: "Your new default Jekyll theme"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
