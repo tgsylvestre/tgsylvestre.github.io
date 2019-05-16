@@ -2,7 +2,7 @@
 title: Curriculum Vitæ
 layout: cv
 actions:
-  - label: "Download as PDF"
+  - label: "Me rencontrer"
     icon: pdf
-    url: "#pdf-asset"
+    url: "https://calendly.com/tgeorges-sylvestre/45min"
 ---
