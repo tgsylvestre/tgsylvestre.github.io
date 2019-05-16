@@ -11,4 +11,4 @@ Un auto-proclamé Digital Sherpa Georges est un gestionnaire administratif qui a
   - Mène plusieurs projets en simultanée avec peu de supervision, 
   - Agis en tant que chef de projet pour conduire les implémentations jusqu'à leur terme
 
-Curieux de savoir ce que la croissance digitale peut apporter à votre entreprise: {% include icon-github.html username="mmistakes" %}/[jekyll-theme-basically-basic](https://calendly.com/tgeorges-sylvestre/45min)
+Curieux de savoir ce que la croissance digitale peut apporter à votre entreprise: /[Me rencontrer](https://calendly.com/tgeorges-sylvestre/45min)
