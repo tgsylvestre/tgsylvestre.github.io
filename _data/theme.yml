@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -8,16 +8,16 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
-  home: "Home"
+  home: "Page principale"
   newer: "Newer"
   older: "Older"
   email: "Email"
   subscribe: "Subscribe"
-  read_more: "Read More"
+  read_more: "lire la suite"
   posts: "Posts"
   page: "Page"
-  of: "of"
-  min_read: "min read"
+  of: "sur"
+  min_read: "temps de lecture"
   present: "Present"
 
 # Google Fonts
@@ -30,9 +30,9 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - posts.md
-  - recipes.md
   - about.md
   - cv.md
+  - recipes.md
+  - posts.md
   - tags.md
   - categories.md

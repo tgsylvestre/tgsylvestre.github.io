@@ -1,5 +1,9 @@
 ---
 title: "Jekyll Remote Theme Support Added"
+image: 
+  path: /assets/images/chocolate-chip-cookies-lg.jpg
+  thumbnail: /assets/images/chocolate-chip-cookies-400x200.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 excerpt:
 last_modified_at: 2017-12-01T09:51:16-05:00
 tags: 
