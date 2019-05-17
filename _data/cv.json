@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "T.Georges Sylvestre",
-    "label": "Digital Sherpa",
+    "label": "Sherpa Digital",
     "picture": "",
     "email": "tgeorges.sylvestre.com",
     "phone": "(+33)6 73 24 83 66",
@@ -89,35 +89,35 @@
     {
       "name": "Gestion de projets Digitaux",
       "level": "Master",
-      "highlights": [
-        "Définir et partager une vision stratégique en créant une feuille de route produit",
-        "Etablir les véritables besoins clients et priorisée des fonctionnalités du produit à implémenter",
-        "Accompagner les équipes de développeurs pendant la production en respectant les principes de gestion de projet agile",
-        "Coordonner la release et les efforts d’optimisation pour les fonctionnalités à haute valeur ajoutée"
+      "keywords": [
+        "/Définir et partager une vision stratégique en créant une feuille de route produit",
+        " /Etablir les véritables besoins clients et priorisée des fonctionnalités du produit à implémenter",
+        " /Accompagner les équipes de développeurs pendant la production en respectant les principes de gestion de projet agile",
+        " /Coordonner la release et les efforts d’optimisation pour les fonctionnalités à haute valeur ajoutée"
     
       ]
     },
     {
       "name": "Entrepreunariat",
       "level": "Satisfactory",
-      "highlights": [
-        "Transformer une idée en un business model",
-        "Analyser un besoin client",
-        "Créer une offre et de la valeur pour des clients",
-        "Se faire connaître et vendre son produit",
-        "Gérer les finances et l’administrationRecruter et fédérer une équipe"
+      "keywords": [
+        "/Transformer une idée en un business model",
+        " /Analyser un besoin client",
+        " /Créer une offre et de la valeur pour des clients",
+        " /Se faire connaître et vendre son produit",
+        " /Gérer les finances et l’administrationRecruter et fédérer une équipe"
       ]
     },
     {
       "name": "Comunity management",
       "level": "Satisfactory",
-      "highlights": [
-        "Elaborer une stratégie de communication sur les réseaux sociaux",
-        "Définir une ligne éditoriale pour créer des contenus de marque",
-        "Organiser des évènements pour fédérer des communautés",
-        "Animer des communautés avec un discours de marque",
-        "Lancer des campagnes de notoriété ou d'acquisition",
-        "Auditer la E-réputation de n'importe quelle marque"
+      "keywords": [
+        "/Elaborer une stratégie de communication sur les réseaux sociaux",
+        " /Définir une ligne éditoriale pour créer des contenus de marque",
+        " /Organiser des évènements pour fédérer des communautés",
+        " /Animer des communautés avec un discours de marque",
+        " /Lancer des campagnes de notoriété ou d'acquisition",
+        " /Auditer la E-réputation de n'importe quelle marque"
         
     
       ]
@@ -144,16 +144,18 @@
         "Intelligence Artificielle",
         "Big Data",
         "Objets Connecté",
-        "Smart Contract et Block Chain"
+        "Smart Contract",
+        "Block Chain"
       ]
     },
     {
       "name": "Developpement Web",
       "keywords": [
-        "HTML5 et CSS3",
         "Progressive Web App",
         "Web Assembly",
-        "Microservices"
+        "Microservices",
+        "HTML5",
+        "CSS3"
       ]
     },
     {
@@ -161,7 +163,9 @@
       "keywords": [
         "Intelligence et mécanique sociale",
         "Management",
-        "Etudes et recherches sur l'apprentissage"
+        "Etudes et recherches sur l'apprentissage",
+        "Psychosociology",
+        "Social engineering"
       ]
     },
     {
@@ -169,7 +173,8 @@
       "keywords": [
         "Stratégie Digitale",
         "Creation et diffusion de contenu",
-        "Marketing 4.0"
+        "Marketing 4.0",
+        "Social media"
       ]
     }
   ],
