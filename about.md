@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "A Propos"
 layout: about
 ---
 

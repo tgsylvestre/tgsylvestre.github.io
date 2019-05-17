@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: "fr"
-title: "Digital Sherpa"
+title: "T.Georges"
 email: "tgeorges.sylvestre@gmail.com"
 description: "Your new default Jekyll theme"
 baseurl: ""  # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ author:
   twitter: "TedGeorges"
   picture: "/assets/images/profile.jpg"
 twitter_username: "TedGeorges"
-github_username: "Towlette_Pettetucci"
+github_username: "tgsylvestre"
 logo: "/assets/images/logo.png"
 search: true
 search_full_content: true
