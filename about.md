@@ -1,6 +1,14 @@
 ---
 title: "A Propos"
 layout: about
+actions:
+  - label: "LinkedIn"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/tgsylvestre"
+actions:
+  - label: "Twitter"
+    icon: twitter
+    url: "https://twitter.com/TedGeorges"
 ---
 
 Un auto-proclamé Sherpa Digital Georges est un gestionnaire administratif qui a passé les 10 dernières années à assister la planification, la conception et la mise en œuvre opérationnelle de projets, il est  passionné par le travail qu’il fait en accompagnant les entreprises dans leur préparation organisationnelle et l'intégration du processus de développement digital.
