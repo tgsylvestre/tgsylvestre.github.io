@@ -30,10 +30,12 @@ search: true
 search_full_content: true
 search_provider: algolia
 algolia:
-  application_id: QB6HVGBSBA
+  application_id: DO48T8IQIY
   index_name: basically-basic
-  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+  search_only_api_key: 030feab4e881d01fd7cc2e6d234b2175
   powered_by: # true (default), false
+google_analytics: UA-141221583-1
+copyright: "© 2019 Sherpa Digital."
 
 # Liquid
 liquid:
@@ -74,14 +76,14 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
       read_time: true
-  # _recipes
+   _recipes
   - scope:
       path: "_recipes"
       type: recipes
